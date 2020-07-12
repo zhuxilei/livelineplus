@@ -1,2 +1,2 @@
 # livelineplus
-This is the project for the Vandyhack 2020 Summer Edition
+This is the project for the Vandyhacks 2020 Summer Edition
